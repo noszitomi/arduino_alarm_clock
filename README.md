@@ -1,5 +1,6 @@
 # arduino_alarm_clock
 
+
 ## Components:
 * Arduino UNO microcontroller board
 * RTC module, I2C interface
@@ -59,3 +60,4 @@ Uses general Arduino code structure.
 * Newliquidcrystal_1.3.5 (I2C driven LCD display)
 * ds3231-master (RTC driver)
 
+## *[This project was originally created in 2018]*
